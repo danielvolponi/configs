@@ -1,0 +1,1 @@
+/home/daniel.volponi/.config/micro/settings.json
