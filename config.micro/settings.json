@@ -1,7 +1,6 @@
 {
     "backup": false,
     "colorcolumn": 100,
-    "colorscheme": "atom-dark",
     "diffgutter": true,
     "editorconfig": true,
     "filemanager": true,
